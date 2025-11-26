@@ -1,0 +1,30 @@
+body{
+  background-color: lavender;
+  font-family: Arial;
+  text-align: center;
+}
+h1{
+  color: purple;
+  margin-bottom: 20px;
+}
+p{
+  background-color: white;
+  width: 40%;
+  margin: 10px auto;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  font-size: 18px;
+}
+a{
+  display: inline-block;
+  margin-top: 20px;
+  text-decoration: none;
+  background-color: purple;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 8px;
+}
+a:hover{
+  background-color: mediumorchid;
+}
